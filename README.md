@@ -3,10 +3,10 @@ Cube Temple Platformer is a small game made in Unreal Engine 5.4.1 using mostly 
 
 # Source Files
 * *BreakableActor*: Actor that can be destroyed by a projectile
-* *CollectableActor*: Actor that can be collected by the player or other actors
+* *CollectableActor*: Actor that can be collected by the player or other actors, used for coins and player items
 * *MainMenuWidget*: Sets up the interactable buttons on the main menu
 * *MoveSceneComponent*: Component that can be added to actors to move them dynamically
-* *MyBoss*: Boss actor and fight
+* *MyBoss*: Boss actor and fight mechanics
 * *MyBossHUD*: Updates and displays boss health
 * *MyCharacter*: Character components, movement, abilities, and stats
 * *MyGameInstance*: Allows getting and setting of character stat variables across different levels
