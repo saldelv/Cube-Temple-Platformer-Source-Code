@@ -15,7 +15,7 @@ https://github.com/saldelv/Cube-Temple-Platformer-Source-Code/assets/96501610/63
 * *MyGameInstance*: Allows getting and setting of character stat variables across different levels
 * *MyGameModeBase*: Initializes default game mode settings
 * *MyHUD*: Can display character values, currently displays coin count
-* *MyProjectile*: Flexible actor used for the player and boss projectiles
+* *MyProjectile*: Actor used for the player and boss projectiles
 * *SpawnActor*: Actor that can randomly spawn other actors in a set area and time
 
 
